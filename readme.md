@@ -1,6 +1,6 @@
 # WELCOME TO MY GITHUB PAGE
 
-<img src="assets/anim.gif" alt="my name" style="width: auto;display: block;margin: auto">
+<img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/anim.gif" alt="my name" style="width: auto;display: block;margin: auto">
 
 ## About Me
 
@@ -11,7 +11,7 @@
 * ❤️ CTF game
 * ❤️ Python
 
-<img src="assets/200w.webp" alt="bored">
+<img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/200w.webp" alt="bored">
 
 ## Contact Me
 
@@ -19,7 +19,7 @@
 * [on Facebook](https://facebook.com/defrindr)
 * [On Instagram](https://instagram.com/defrindr)
 
-<img src="assets/200.webp" alt="images" alt="create something better">
+<img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/200.webp" alt="images" alt="create something better">
 
 # My Awkward project
 
@@ -30,7 +30,7 @@
 * [Kata Tanggal](https://github.com/defrindr/katatanggal)
 * [Termiweb](https://github.com/defrindr/termiweb)
 
-<img src="assets/not-hot.webp" alt="ulgy image">
+<img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/not-hot.webp" alt="ulgy image">
 
-<img src="assets/tq.webp" style="width: auto;display: block;margin: auto" alt="thank you">
+<img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/tq.webp" style="width: auto;display: block;margin: auto" alt="thank you">
 
