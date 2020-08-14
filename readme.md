@@ -2,6 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/anim.gif" alt="my name" style="width: auto;display: block;margin: auto">
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=defrindr&bg_color=170,FEAAAE,FAFAFA&text_color=A93436&title_color=FA9999&count_private=true)](https://github.com/defrindr)
+
+
 ## About Me
 
 * 🧑‍🎓 Students
@@ -11,7 +16,8 @@
 * ❤️ CTF game
 * ❤️ Python
 
-<img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/200w.webp" alt="bored">
+
+
 
 ## Contact Me
 
