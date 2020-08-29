@@ -1,7 +1,4 @@
-# WELCOME TO MY GITHUB PAGE
-
 <img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/anim.gif" alt="my name" style="width: auto;display: block;margin: auto">
-
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=defrindr)](https://github.com/defrindr)
 
@@ -10,7 +7,7 @@
 
 * 🧑‍🎓 Students
 * 👦 18 year old
-* 🏠 Live at Ponorogo
+* 🏠 Live at Ponorogo, ID
 * ❤️ CTF game
 * ❤️ Programming
 
@@ -21,8 +18,8 @@
 * [TAVA ( Telegram Account Valid Checker )](https://github.com/defrindr/tava)
 * [Brainly-Scraper](https://github.com/defrindr/brainly-scraper)
 * [SWIKI ( Wikipedia Scraper With Deno )](https://github.com/defrindr/swiki)
-* [Snow.js ( snow effect for HTML with  )](https://github.com/defrindr/snow.js)
-* [Kata Tangga ( parse date to indonesian string )](https://github.com/defrindr/katatanggal)
+* [snow.js ( snow effect for HTML with vanila JS )](https://github.com/defrindr/snow.js)
+* [Kata Tanggal ( date into indonesian string )](https://github.com/defrindr/katatanggal)
 * [Termiweb ( static web page like a Terminal )](https://github.com/defrindr/termiweb)
 
 
