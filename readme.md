@@ -1,8 +1,5 @@
 <img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/anim.gif" alt="my name" style="width: auto;display: block;margin: auto">
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=defrindr)](https://github.com/defrindr)
-
-
 ## About Me
 
 * 🧑‍🎓 Students
@@ -11,8 +8,9 @@
 * ❤️ CTF game
 * ❤️ Programming
 
+[![my github stats](https://github-readme-stats.vercel.app/api?username=defrindr)](https://github.com/defrindr)
 
-# My Awkward project
+# My Personal project
 
 * [Validanode ( validator for node js )](https://github.com/defrindr/validanode)
 * [TAVA ( Telegram Account Valid Checker )](https://github.com/defrindr/tava)
