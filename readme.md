@@ -10,8 +10,9 @@
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=defrindr)](https://github.com/defrindr)
 
-# My Personal project
+## My Personal project
 
+* [CryptoNode.js ( library cryptography for node js )](https://github.com/defrindr/cryptonode)
 * [Validanode ( validator for node js )](https://github.com/defrindr/validanode)
 * [TAVA ( Telegram Account Valid Checker )](https://github.com/defrindr/tava)
 * [Brainly-Scraper](https://github.com/defrindr/brainly-scraper)
@@ -23,12 +24,15 @@
 
 <img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/not-hot.webp" alt="ulgy image">
 
-## Contact Me
 
-* [On Telegram](https://t.me/defrindr)
-* [on Facebook](https://facebook.com/defrindr)
-* [on Twitter](https://twitter.com/defrindr)
-* [On Instagram](https://instagram.com/defrindr)
+## My Account
+
+* [LinkedIn](https://www.linkedin.com/in/defri-indra-mahardika/)
+* [Dribbble](https://dribbble.com/defrindr)
+* [Telegram](https://t.me/defrindr)
+* [Facebook](https://facebook.com/defrindr)
+* [Twitter](https://twitter.com/defrindr)
+* [Instagram](https://instagram.com/defrindr)
 
 <img src="https://raw.githubusercontent.com/defrindr/defrindr/master/assets/tq.webp" style="width: auto;display: block;margin: auto" alt="thank you">
 
