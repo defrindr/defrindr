@@ -3,12 +3,14 @@
 ## About Me
 
 * 🧑‍🎓 Students
-* 👦 18 year old
-* 🏠 Live at Ponorogo, ID
+* 👦 <s>18</s> 20 year old
+* 🏠 <s>Ponorogo</s> wherever i want, ID
 * ❤️ CTF game
 * ❤️ Programming
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=defrindr)](https://github.com/defrindr)
+<br/>
+![](https://komarev.com/ghpvc/?username=defrindr&label=PROFILE+VIEWS)
 
 ## My Personal project
 
