@@ -2,7 +2,7 @@
 
 ## About Me
 
-* 🧑‍🎓 Students
+* 🧑‍🎓 <s>Students</s> Working
 * 👦 <s>18</s> 20 year old
 * 🏠 <s>Ponorogo</s> wherever i want, ID
 * ❤️ CTF game
