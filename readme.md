@@ -9,7 +9,7 @@ I am an experienced application developer using various frameworks. I also have 
 * [Validanode (Validator for NodeJS)](https://github.com/defrindr/validanode)
 
 ## Contact Me
-* [LinkedIn](https://www.linkedin.com/in/defri-indra-mahardika/)
+* [LinkedIn](https://www.linkedin.com/in/defrindr/)
 * [Email](mailto:defrindr@gmail.com)
 
 ## Another Information
