@@ -6,7 +6,7 @@ I am an experienced application developer using various frameworks. I also have 
 * [React Native Boilerplate](https://github.com/defrindr/2022-react-native-boilerplate)
 * [Portofolio Web App](https://github.com/defrindr/cobain-react-portfolio/)
 * [Luling Frontend](https://github.com/3120510402/luling-frontend/)
-* [Validanode ( validator for node js )](https://github.com/defrindr/validanode)
+* [Validanode (Validator for NodeJS)](https://github.com/defrindr/validanode)
 
 ## Contact Me
 * [LinkedIn](https://www.linkedin.com/in/defri-indra-mahardika/)
