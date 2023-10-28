@@ -8,7 +8,7 @@ I am an experienced application developer using various frameworks. I also have 
 * [Portofolio Web App](https://github.com/defrindr/cobain-react-portfolio/)
 * [Luling Frontend](https://github.com/3120510402/luling-frontend/)
 * [Validanode (Validator for NodeJS)](https://github.com/defrindr/validanode)
-* [Etc](https://defrindr.github.io)
+* [more](https://defrindr.github.io)
 
 ## Contact Me
 * [LinkedIn](https://www.linkedin.com/in/defrindr/)
